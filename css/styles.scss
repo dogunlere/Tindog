@@ -8,4 +8,8 @@
     backgound-color: springgreen;
 }
 
+.navbar {
+    @extend %body;
+    font-size: 16px;
+}
 
