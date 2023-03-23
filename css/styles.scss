@@ -3,3 +3,9 @@
   text-align: center;
 }
 
+.p {
+    @extend %body;
+    backgound-color: springgreen;
+}
+
+
